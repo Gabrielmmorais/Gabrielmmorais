@@ -24,7 +24,7 @@ func main() {
 ```
 
 </td>
-<td width="30%">
+<td width="50%">
 
 ## 📊 GitHub Stats
 <div align="center">
