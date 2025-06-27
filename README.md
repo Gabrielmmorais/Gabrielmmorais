@@ -7,7 +7,6 @@
 <table>
 <tr>
 <td width="50%">
-
 ## 🚀 Sobre mim
 Sou um **DevOps Engineer** apaixonado por automação e cloud computing. Adoro resolver problemas complexos e otimizar processos.
 
@@ -85,10 +84,10 @@ func main() {
   <a href="https://www.linkedin.com/in/gabriel-morais-b1a37022a/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="https://github.com/SEU_USERNAME" target="_blank">
+  <a href="https://github.com/Gabrielmmorais" target="_blank">
     <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
-  <img src="https://komarev.com/ghpvc/?username=SEU_USERNAME&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile views"/>
+  <img src="https://komarev.com/ghpvc/?username=Gabrielmmorais&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile views"/>
 </div>
 
 <div align="center">
