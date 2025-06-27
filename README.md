@@ -11,11 +11,10 @@
 ## 🚀 Sobre mim
 Sou um **DevOps Engineer** apaixonado por automação e cloud computing. Adoro resolver problemas complexos e otimizar processos.
 
-- 🔭 **Trabalhando com:** Google Cloud Platform
+- 🔭 **Trabalhando com:** DevSecOps
 - 🌱 **Aprendendo:** Golang e suas aplicações
 - 💬 **Vamos falar sobre:** DevOps, Cloud, K8s, CI/CD
-- 🎯 **Meta 2025:** Mais contribuições open source
-- ⚡ **Curiosidade:** Automatizo até tarefas simples
+- 🎯 **Meta 2025:** Fazer a diferença em mais projetos
 
 ```go
 func main() {
