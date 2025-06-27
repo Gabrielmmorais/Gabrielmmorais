@@ -6,7 +6,7 @@
 
 <table>
 <tr>
-<td width="70%">
+<td width="50%">
 
 ## 🚀 Sobre mim
 Sou um **DevOps Engineer** apaixonado por automação e cloud computing. Adoro resolver problemas complexos e otimizar processos.
@@ -24,7 +24,7 @@ func main() {
 ```
 
 </td>
-<td width="50%">
+<td width="30%">
 
 ## 📊 GitHub Stats
 <div align="center">
