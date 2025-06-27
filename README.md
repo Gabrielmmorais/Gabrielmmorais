@@ -1,4 +1,4 @@
-# 👋 Olá! Eu sou Gabriel Morais
+# 👋 Hey! Whats sup fellas
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&center=true&vCenter=true&width=600&lines=DevOps+Engineer+%F0%9F%9A%80;Cloud+Computing+Enthusiast+%E2%98%81%EF%B8%8F;Always+learning+new+technologies+%F0%9F%93%9A" alt="Typing SVG" />
@@ -33,9 +33,9 @@ func main() {
 </div>
 
 ## 🔥 Projetos Destacados
-- **[Terraform-GCP-Modules]** - Módulos IaC para GCP
-- **[K8s-Monitoring]** - Stack de monitoramento K8s
-- **[Golang-DevOps-Tools]** - Ferramentas Go para DevOps
+- **[CloudBuild-Terraform-Bitbucket]** - CI/CD com Cloud Build e Terraform
+- **[Terraform-for-CloudRun]**- IaC para Cloud Run e Artifact Registry
+- **[Web-Scraping-AWS-Lambda]** - Scraping automatizado com AWS
 
 </td>
 </tr>
