@@ -6,7 +6,7 @@
 
 <table>
 <tr>
-<td width="50%">
+<td width="70%">
 
 ## 🚀 Sobre mim
 Sou um **DevOps Engineer** apaixonado por automação e cloud computing. Adoro resolver problemas complexos e otimizar processos.
